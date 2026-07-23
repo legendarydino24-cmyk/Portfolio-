@@ -1,1 +1,1 @@
-# Portfolio-
+Open index.html in a browser. Replace placeholder content with your own projects and contact details.
